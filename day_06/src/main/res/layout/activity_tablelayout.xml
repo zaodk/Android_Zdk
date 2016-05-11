@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_column="2">
+
+    <TableRow>
+        <!--初始状态-->
+        <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Hello 早读课!" />
+
+        <!--设置字体大小16dp-->
+        <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Hello 早读课!"
+            android:textSize="16dp" />
+    </TableRow>
+    <!--设置字体颜色为红色-->
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Hello 早读课!"
+        android:textColor="#ff0000" />
+
+    <!--设置背景颜色为红色-->
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#ff0000"
+        android:text="Hello 早读课!" />
+
+
+    <!--设置字体居中-->
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="Hello 早读课!" />
+</TableLayout>
