@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/day07" />
             <option value="$PROJECT_DIR$/day_01" />
             <option value="$PROJECT_DIR$/day_02" />
             <option value="$PROJECT_DIR$/day_03" />
@@ -20,6 +21,7 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/day07" />
             <option value="$PROJECT_DIR$/day_01" />
             <option value="$PROJECT_DIR$/day_02" />
             <option value="$PROJECT_DIR$/day_03" />
