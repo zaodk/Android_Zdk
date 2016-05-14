@@ -9,25 +9,27 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/day_01" />
-            <option value="$PROJECT_DIR$/day_02" />
-            <option value="$PROJECT_DIR$/day_03" />
-            <option value="$PROJECT_DIR$/day_04" />
-            <option value="$PROJECT_DIR$/day_05" />
-            <option value="$PROJECT_DIR$/day_06" />
-            <option value="$PROJECT_DIR$/day_07" />
+            <option value="$PROJECT_DIR$/day_01_App运行入口和Activity入口" />
+            <option value="$PROJECT_DIR$/day_02_Android资源文件" />
+            <option value="$PROJECT_DIR$/day_03_TextView使用资源文件" />
+            <option value="$PROJECT_DIR$/day_04_TextView的使用" />
+            <option value="$PROJECT_DIR$/day_05_Android布局的介绍(一)" />
+            <option value="$PROJECT_DIR$/day_06_Android布局的介绍(二)" />
+            <option value="$PROJECT_DIR$/day_07_Android布局的介绍(三)" />
+            <option value="$PROJECT_DIR$/day_08_LinearLayout线性布局(一)" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/day_01" />
-            <option value="$PROJECT_DIR$/day_02" />
-            <option value="$PROJECT_DIR$/day_03" />
-            <option value="$PROJECT_DIR$/day_04" />
-            <option value="$PROJECT_DIR$/day_05" />
-            <option value="$PROJECT_DIR$/day_06" />
-            <option value="$PROJECT_DIR$/day_07" />
+            <option value="$PROJECT_DIR$/day_01_App运行入口和Activity入口" />
+            <option value="$PROJECT_DIR$/day_02_Android资源文件" />
+            <option value="$PROJECT_DIR$/day_03_TextView使用资源文件" />
+            <option value="$PROJECT_DIR$/day_04_TextView的使用" />
+            <option value="$PROJECT_DIR$/day_05_Android布局的介绍(一)" />
+            <option value="$PROJECT_DIR$/day_06_Android布局的介绍(二)" />
+            <option value="$PROJECT_DIR$/day_07_Android布局的介绍(三)" />
+            <option value="$PROJECT_DIR$/day_08_LinearLayout线性布局(一)" />
           </set>
         </option>
       </GradleProjectSettings>

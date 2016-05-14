@@ -1,1 +1,1 @@
-include ':day_01', ':day_02', ':day_03', ':day_04', ':day_05', ':day_06', ':day_07'
+include ':day_01_App运行入口和Activity入口', ':day_02_Android资源文件', ':day_03_TextView使用资源文件', ':day_04_TextView的使用', ':day_05_Android布局的介绍(一)', ':day_06_Android布局的介绍(二)', ':day_08_LinearLayout线性布局(一)', ':day_07_Android布局的介绍(三)'
