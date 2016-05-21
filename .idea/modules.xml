@@ -18,8 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/day_07_Android布局的介绍(三)/day_07_Android布局的介绍(三).iml" filepath="$PROJECT_DIR$/day_07_Android布局的介绍(三)/day_07_Android布局的介绍(三).iml" />
       <module fileurl="file://$PROJECT_DIR$/day_08_LinearLayout线性布局(一)/day_07_LinearLayout线性布局(一).iml" filepath="$PROJECT_DIR$/day_08_LinearLayout线性布局(一)/day_07_LinearLayout线性布局(一).iml" />
       <module fileurl="file://$PROJECT_DIR$/day_08_LinearLayout线性布局(一)/day_08_LinearLayout线性布局(一).iml" filepath="$PROJECT_DIR$/day_08_LinearLayout线性布局(一)/day_08_LinearLayout线性布局(一).iml" />
-      <module fileurl="file://$PROJECT_DIR$/day_09_linearlayout线性布局(二)/day_09_linearlayout线性布局(二).iml" filepath="$PROJECT_DIR$/day_09_linearlayout线性布局(二)/day_09_linearlayout线性布局(二).iml" />
-      <module fileurl="file://$PROJECT_DIR$/day_10_framelayout帧布局/day_10_framelayout帧布局(一).iml" filepath="$PROJECT_DIR$/day_10_framelayout帧布局/day_10_framelayout帧布局(一).iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_09_LinearLayout线性布局(二)/day_09_linearlayout线性布局(二).iml" filepath="$PROJECT_DIR$/day_09_LinearLayout线性布局(二)/day_09_linearlayout线性布局(二).iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_10_FrameLayout帧布局/day_10_FrameLayout帧布局.iml" filepath="$PROJECT_DIR$/day_10_FrameLayout帧布局/day_10_FrameLayout帧布局.iml" />
     </modules>
   </component>
 </project>
