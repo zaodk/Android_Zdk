@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android_Zdk.iml" filepath="$PROJECT_DIR$/Android_Zdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_21_Android基础控件-button/day21-android基础控件-button.iml" filepath="$PROJECT_DIR$/day_21_Android基础控件-button/day21-android基础控件-button.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_01_App运行入口和Activity入口/day_01.iml" filepath="$PROJECT_DIR$/day_01_App运行入口和Activity入口/day_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_01_App运行入口和Activity入口/day_01_App运行入口和Activity入口.iml" filepath="$PROJECT_DIR$/day_01_App运行入口和Activity入口/day_01_App运行入口和Activity入口.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_02_Android资源文件/day_02.iml" filepath="$PROJECT_DIR$/day_02_Android资源文件/day_02.iml" />
@@ -27,6 +28,12 @@
       <module fileurl="file://$PROJECT_DIR$/day_15_tablelayout表格布局(二)/day_15_tablelayout表格布局(二).iml" filepath="$PROJECT_DIR$/day_15_tablelayout表格布局(二)/day_15_tablelayout表格布局(二).iml" />
       <module fileurl="file://$PROJECT_DIR$/day_15_tablelayout表格布局(二)/day_15_table表格布局(二).iml" filepath="$PROJECT_DIR$/day_15_tablelayout表格布局(二)/day_15_table表格布局(二).iml" />
       <module fileurl="file://$PROJECT_DIR$/day_16_marginpadding间距详解/day_16_marginpadding间距详解.iml" filepath="$PROJECT_DIR$/day_16_marginpadding间距详解/day_16_marginpadding间距详解.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_17_Android基础控件-textview(一)/day_17_Android基础控件-textview(一).iml" filepath="$PROJECT_DIR$/day_17_Android基础控件-textview(一)/day_17_Android基础控件-textview(一).iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_19_android基础控件-edittext(一)/day_18_android基础控件-edittext.iml" filepath="$PROJECT_DIR$/day_19_android基础控件-edittext(一)/day_18_android基础控件-edittext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_18_android基础控件-textview(二)/day_18_android基础控件-textview(二).iml" filepath="$PROJECT_DIR$/day_18_android基础控件-textview(二)/day_18_android基础控件-textview(二).iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_19_android基础控件-edittext(一)/day_19_android基础控件-edittext(一).iml" filepath="$PROJECT_DIR$/day_19_android基础控件-edittext(一)/day_19_android基础控件-edittext(一).iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_20_android基础控件-edittext(二)/day_20_android基础控件-edittext(二).iml" filepath="$PROJECT_DIR$/day_20_android基础控件-edittext(二)/day_20_android基础控件-edittext(二).iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_21_Android基础控件-button/day_21_Android基础控件-button.iml" filepath="$PROJECT_DIR$/day_21_Android基础控件-button/day_21_Android基础控件-button.iml" />
     </modules>
   </component>
 </project>
